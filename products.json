@@ -1,18 +1,18 @@
 [
   {
     "id": "1",
-    "name": "Casio G-Shock GA-2100",
-    "brand": "Casio",
+    "name": "Laptop Lenovo LOQ",
+    "brand": "lenovo",
     "price": "2850000",
     "status": "Ready",
-    "image": ""
+    "image": "laptoploq.jpg"
   },
   {
     "id": "2",
-    "name": "Rolex Submariner",
-    "brand": "Rolex",
+    "name": "Laptop ROG",
+    "brand": "Republic of Games",
     "price": "7500000",
     "status": "Out of Stock",
-    "image": "https://picsum.photos/400?2"
+    "image": "laptoprog.jpg"
   }
 ]
